@@ -1,11 +1,11 @@
 # Персер результатов
 
-   * Open `https://github.com` in Firefox
-   * Open Firebug Console
-  * Run that code
+  * Open `https://github.com` in Firefox
+  * Open Firebug Console
+  * Run that code:
 
 ```javascript
-$.getScript('/cripi-javascript/homework-parser/raw/master/parser.js');
+$.getScript('https://raw.github.com/cripi-javascript/homework-parser/master/parser.js');
 ```
 
   * See results in Firebug console
